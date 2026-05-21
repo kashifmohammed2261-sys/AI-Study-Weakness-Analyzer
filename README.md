@@ -1,9 +1,22 @@
 # AI Study Weakness Analyzer
 
-This project analyzes:
-- student grades
-- weak subjects
-- top subjects
-- overall pass/fail result
+A Python-based project that analyzes student performance.
 
-Built using Python.
+## Features
+- Student marks input
+- Grade calculation
+- Weak subject detection
+- Top subject analysis
+- Overall pass/fail result
+- Improvement suggestions
+
+## Technologies Used
+- Python
+- Dictionaries
+- Loops
+- Conditional Statements
+
+## Future Improvements
+- GUI version
+- Database integration
+- AI-based suggestions
